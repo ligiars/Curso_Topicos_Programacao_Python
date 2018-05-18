@@ -1,5 +1,5 @@
 #
-# Author: Lígia Rocha 18/15/2018
+# Author: Lígia Rocha 18/05/2018
 #
 "O programa recebe as notas e a frequencia de um aluno de graduacao e define se ele é aprovado ou nao levando em consideracao sua frequencia e media."
 frequencia = float(input('Qual foi a frequência percentual do aluno?'))
