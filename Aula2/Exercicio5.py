@@ -1,5 +1,5 @@
 #
-# Author: Lígia Rocha
+# Author: Lígia Rocha 18/15/2018
 #
 "O programa gera a tabuada de multiplicação de um numero"
 x = 1

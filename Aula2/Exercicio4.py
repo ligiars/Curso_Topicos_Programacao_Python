@@ -1,9 +1,9 @@
 #
-# Author: Lígia Rocha
+# Author: Lígia Rocha 18/15/2018
 #
 "O programa exibe a contagem regressiva do lançamento de um foguete de 10 a 0"
 
-x = int(input('Digite 10 para começar a contagem regressiva:\n'))
+x = 11
 y = 1
 
 while x >= y:

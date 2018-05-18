@@ -1,10 +1,10 @@
 "Em sala"
 
-x = 1
-soma = 0
+import sys
 
-while x <= 10:
-    n = int(input("Digite a nota:\n"))
-    soma += n
-    x += 1
-print("Média:", (soma/10))
+while True:
+    print('Digite exit para sair do programa:')
+    resposta = input()
+    if resposta == 'exit':
+        sys.exit()
+    print(f'Você digitou {resposta}.')
