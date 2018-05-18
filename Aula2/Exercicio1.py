@@ -1,5 +1,5 @@
 #
-# Author: Lígia Rocha 18/15/2018
+# Author: Lígia Rocha 18/05/2018
 #
 "O programa pede qual operação você deseja fazer, pede os números e imprime os resultados."
 operacao = input ('Você deseja somar ou multiplicar?')
